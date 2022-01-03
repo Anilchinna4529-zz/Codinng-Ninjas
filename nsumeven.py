@@ -1,3 +1,6 @@
+'''
+N of sum even Numbers
+'''
 x=int(input())
 sum=0
 #sum2=0

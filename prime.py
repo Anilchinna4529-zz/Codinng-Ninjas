@@ -1,3 +1,6 @@
+'''
+Check prime number or not
+'''
 n=int(input("num"))
 div=2
 while div<n:

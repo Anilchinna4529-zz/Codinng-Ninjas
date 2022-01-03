@@ -1,3 +1,6 @@
+'''
+Print 1 to N natural numbers
+'''
 """""
 x=int(input("enter the N num"))
 a=0

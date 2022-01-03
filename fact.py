@@ -1,3 +1,6 @@
+'''
+factorials
+'''
 x=int(input("enter a num"))
 sum=1
 if x<0:

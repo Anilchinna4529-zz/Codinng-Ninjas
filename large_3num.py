@@ -1,3 +1,6 @@
+'''
+largest of three 3 numbers
+'''
 x=int(input("1st num : "))
 y=int(input("2nd num : "))
 z=int(input("3rd num :"))
